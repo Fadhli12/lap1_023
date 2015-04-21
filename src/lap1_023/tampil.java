@@ -17,6 +17,7 @@ public class tampil {
 		System.out.println("Input 2: KURANG!");
 		System.out.println("Input 3: KALI!");
 		System.out.println("Input 4: BAGI!");
+		System.out.println("===================================");
 	}
 	
 	public static void main (String[] args){
